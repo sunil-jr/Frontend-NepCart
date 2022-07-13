@@ -8,6 +8,7 @@ html{
 	transition: 1.5s;
 }
 
+
 .navbar-brand{
 	font-size: 2rem;
 	color: black;
@@ -22,6 +23,7 @@ html{
 	color: black;
 	text-transform: uppercase;
 	font-family: 'Rubik', sans-serif;
+
 
 }
 .nav-link:hover{
